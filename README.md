@@ -1,6 +1,8 @@
 # Data_Bootcamp_Final_Project
 This project was completed by **Ziang Wang** here in partial fulfilment of ECON-UB.0232, Data Bootcamp, Fall 2017. 
-I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
+I certify that the NYU Stern Honor Code applies to this project. 
+
+In particular, I have:
 
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
 The incorporation of the work of others–including but not limited to their ideas, data, creative
